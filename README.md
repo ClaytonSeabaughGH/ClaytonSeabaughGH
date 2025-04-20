@@ -44,7 +44,7 @@ Git/GitHub | JIRA | VS Code | .env | .venv | npm
 
 - 📧 Email: [claytonseabaugh@gmail.com](mailto:claytonseabaugh@gmail.com)
 - 🌐 LinkedIn: [linkedin.com/in/claytonseabaugh](https://www.linkedin.com/in/clayton-seabaugh-28955a312/)
-- 🧠 GitHub: You're already here 😉
+- 🧠 GitHub: You're already here!
 
 ---
 
