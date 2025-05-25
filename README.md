@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Clayton Seabaugh!
 
-🎯 **Software Developer | Data Analyst | Educator-turned-Coder**  
+🎯 **Data Analyst | Educator**  
 Currently based in Jackson, MO — soon relocating to Pullman, WA!  
 
 ---
