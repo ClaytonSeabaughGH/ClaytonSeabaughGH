@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Clayton Seabaugh!
 
 🎯 **Data Analyst | Educator**  
-Currently based in Jackson, MO — soon relocating to Pullman, WA!  
+Currently based in Pullman, WA!  
 
 ---
 
