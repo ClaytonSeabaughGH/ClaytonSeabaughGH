@@ -53,7 +53,7 @@ Git/GitHub | JIRA | VS Code | .env | .venv | npm
 - I love Jazz and play in my own Jazz Trio
 - I document most of my projects with clean README files and Jupyter Notebooks.
 - I'm passionate about making tech accessible and fun for everyone.
-- When I am not coding you can find me playing video games, cooking and developing new recipes, playing music, working out at the gym, in my Jiu Jitsu class
+- When I am not coding you can find me playing video games, cooking and developing new recipes, playing music, and working out at the gym.
 
 ---
 
